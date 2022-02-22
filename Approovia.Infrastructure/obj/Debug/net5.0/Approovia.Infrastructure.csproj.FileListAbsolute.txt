@@ -1,0 +1,17 @@
+C:\Users\Tee\source\repos\Approovia.Core\Approovia.Infrastructure\obj\Debug\net5.0\Approovia.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Tee\source\repos\Approovia.Core\Approovia.Infrastructure\obj\Debug\net5.0\Approovia.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tee\source\repos\Approovia.Core\Approovia.Infrastructure\obj\Debug\net5.0\Approovia.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Tee\source\repos\Approovia.Core\Approovia.Infrastructure\obj\Debug\net5.0\Approovia.Infrastructure.AssemblyInfo.cs
+C:\Users\Tee\source\repos\Approovia.Core\Approovia.Infrastructure\obj\Debug\net5.0\Approovia.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Tee\source\repos\Approovia.Core\Approovia.Infrastructure\bin\Debug\net5.0\Approovia.Infrastructure.deps.json
+C:\Users\Tee\source\repos\Approovia.Core\Approovia.Infrastructure\bin\Debug\net5.0\Approovia.Infrastructure.dll
+C:\Users\Tee\source\repos\Approovia.Core\Approovia.Infrastructure\bin\Debug\net5.0\ref\Approovia.Infrastructure.dll
+C:\Users\Tee\source\repos\Approovia.Core\Approovia.Infrastructure\bin\Debug\net5.0\Approovia.Infrastructure.pdb
+C:\Users\Tee\source\repos\Approovia.Core\Approovia.Infrastructure\bin\Debug\net5.0\Approovia.Core.dll
+C:\Users\Tee\source\repos\Approovia.Core\Approovia.Infrastructure\bin\Debug\net5.0\Approovia.Data.dll
+C:\Users\Tee\source\repos\Approovia.Core\Approovia.Infrastructure\bin\Debug\net5.0\Approovia.Core.pdb
+C:\Users\Tee\source\repos\Approovia.Core\Approovia.Infrastructure\bin\Debug\net5.0\Approovia.Data.pdb
+C:\Users\Tee\source\repos\Approovia.Core\Approovia.Infrastructure\obj\Debug\net5.0\Approovia.Infrastructure.csproj.CopyComplete
+C:\Users\Tee\source\repos\Approovia.Core\Approovia.Infrastructure\obj\Debug\net5.0\Approovia.Infrastructure.dll
+C:\Users\Tee\source\repos\Approovia.Core\Approovia.Infrastructure\obj\Debug\net5.0\ref\Approovia.Infrastructure.dll
+C:\Users\Tee\source\repos\Approovia.Core\Approovia.Infrastructure\obj\Debug\net5.0\Approovia.Infrastructure.pdb

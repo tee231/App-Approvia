@@ -1,0 +1,15 @@
+C:\Users\Tee\source\repos\Approovia.Core\Approovia.Data\bin\Debug\net5.0\Approovia.Data.deps.json
+C:\Users\Tee\source\repos\Approovia.Core\Approovia.Data\bin\Debug\net5.0\Approovia.Data.dll
+C:\Users\Tee\source\repos\Approovia.Core\Approovia.Data\bin\Debug\net5.0\ref\Approovia.Data.dll
+C:\Users\Tee\source\repos\Approovia.Core\Approovia.Data\bin\Debug\net5.0\Approovia.Data.pdb
+C:\Users\Tee\source\repos\Approovia.Core\Approovia.Data\bin\Debug\net5.0\Approovia.Core.dll
+C:\Users\Tee\source\repos\Approovia.Core\Approovia.Data\bin\Debug\net5.0\Approovia.Core.pdb
+C:\Users\Tee\source\repos\Approovia.Core\Approovia.Data\obj\Debug\net5.0\Approovia.Data.csproj.AssemblyReference.cache
+C:\Users\Tee\source\repos\Approovia.Core\Approovia.Data\obj\Debug\net5.0\Approovia.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tee\source\repos\Approovia.Core\Approovia.Data\obj\Debug\net5.0\Approovia.Data.AssemblyInfoInputs.cache
+C:\Users\Tee\source\repos\Approovia.Core\Approovia.Data\obj\Debug\net5.0\Approovia.Data.AssemblyInfo.cs
+C:\Users\Tee\source\repos\Approovia.Core\Approovia.Data\obj\Debug\net5.0\Approovia.Data.csproj.CoreCompileInputs.cache
+C:\Users\Tee\source\repos\Approovia.Core\Approovia.Data\obj\Debug\net5.0\Approovia.Data.csproj.CopyComplete
+C:\Users\Tee\source\repos\Approovia.Core\Approovia.Data\obj\Debug\net5.0\Approovia.Data.dll
+C:\Users\Tee\source\repos\Approovia.Core\Approovia.Data\obj\Debug\net5.0\ref\Approovia.Data.dll
+C:\Users\Tee\source\repos\Approovia.Core\Approovia.Data\obj\Debug\net5.0\Approovia.Data.pdb
